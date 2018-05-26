@@ -1,0 +1,9 @@
+body {
+    background: pink;
+}
+
+#quote-div {
+    border: 1px solid black;
+    width:400px;
+    font-family: 'Courier New', Courier, monospace;
+}
