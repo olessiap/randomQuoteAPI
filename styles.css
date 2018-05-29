@@ -1,9 +1,29 @@
 body {
     background: pink;
 }
+h1 {
+    text-align: center;
+}
 
 #quote-div {
     border: 1px solid black;
     width:400px;
+    height:300px;
     font-family: 'Courier New', Courier, monospace;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+}
+
+#quote {
+    padding: 0px 10px;
+}
+#author {
+    text-align: right;
+    padding:10px;
+}
+
+#quote-btn {
+    display: block;
+    margin: 20px auto;
 }
